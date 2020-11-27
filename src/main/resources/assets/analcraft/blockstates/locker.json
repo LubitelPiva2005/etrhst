@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "analcraft:locker"
+    },
+    "facing=north": {
+      "model": "analcraft:locker"
+    },
+    "facing=east": {
+      "model": "analcraft:locker",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "analcraft:locker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "analcraft:locker",
+      "y": 270
+    }
+  }
+}

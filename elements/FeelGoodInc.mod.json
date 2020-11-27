@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "3",
+    "name": "Feel Good Inc",
+    "description": "RIGHT VERSION",
+    "creativeTab": {
+      "value": "CUSTOM:Analtab"
+    },
+    "music": {
+      "value": "CUSTOM:fellgood"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

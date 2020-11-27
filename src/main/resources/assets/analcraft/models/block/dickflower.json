@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "analcraft:blocks/dickersa",
+    "particle": "analcraft:blocks/dickersa"
+  }
+}

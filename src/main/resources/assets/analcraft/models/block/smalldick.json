@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "analcraft:blocks/smalldi",
+    "particle": "analcraft:blocks/smalldi"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "analcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "analcraft:semen"
+    },
+    "1": {
+      "item": "analcraft:semen"
+    },
+    "2": {
+      "item": "analcraft:semen"
+    },
+    "3": {
+      "item": "analcraft:semen"
+    },
+    "4": {
+      "item": "analcraft:knut"
+    },
+    "5": {
+      "item": "analcraft:semen"
+    },
+    "6": {
+      "item": "analcraft:semen"
+    },
+    "7": {
+      "item": "analcraft:semen"
+    },
+    "8": {
+      "item": "analcraft:semen"
+    }
+  },
+  "result": {
+    "item": "analcraft:yuutltghie",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "textureportal",
+        "1": "male-sign-whatsapp",
+        "missing": "textureportal"
+      },
+      "name": "default"
+    }
+  }
+}

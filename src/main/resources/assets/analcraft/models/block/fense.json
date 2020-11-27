@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "analcraft:blocks/cumplanks",
+    "particle": "analcraft:blocks/cumplanks"
+  }
+}

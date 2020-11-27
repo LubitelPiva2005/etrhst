@@ -1,0 +1,24 @@
+{
+  "group": "analcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "analcraft:hundred"
+    },
+    "1": {
+      "item": "analcraft:hundred"
+    },
+    "2": {
+      "item": "analcraft:hundred"
+    }
+  },
+  "result": {
+    "item": "analcraft:three",
+    "count": 1
+  }
+}

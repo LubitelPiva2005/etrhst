@@ -1,0 +1,58 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "gachi_head",
+    "enableBody": false,
+    "textureBody": "gachi_body",
+    "enableLeggings": false,
+    "textureLeggings": "gachi_leggings",
+    "enableBoots": false,
+    "textureBoots": "",
+    "onLeggingsTick": {
+      "name": "GachiLeggingsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Analtab"
+    },
+    "armorTextureFile": "gachi",
+    "helmetName": "Маска кожевника",
+    "bodyName": "Костюм кожевника",
+    "leggingsName": "Трусы Рикардо Милоса",
+    "bootsName": "Gachi Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Modelhelmet",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "helmet.png",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "sruyvie.png",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "armor_leggings.png",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 1.0,
+    "equipSound": {
+      "value": "CUSTOM:leather"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Blacklether"
+      }
+    ]
+  }
+}

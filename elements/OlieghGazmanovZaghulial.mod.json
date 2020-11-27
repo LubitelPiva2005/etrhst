@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "10",
+    "name": "OlieghGazmanov Zaghulial",
+    "description": "RIGHT VERSION",
+    "creativeTab": {
+      "value": "CUSTOM:Analtab"
+    },
+    "music": {
+      "value": "CUSTOM:zagulyal"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

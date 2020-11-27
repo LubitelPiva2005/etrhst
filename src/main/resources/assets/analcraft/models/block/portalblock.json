@@ -1,0 +1,8 @@
+{
+  "parent": "analcraft:custom/actportal",
+  "textures": {
+    "all": "analcraft:blocks/fsie",
+    "particle": "analcraft:blocks/fsie",
+    "2": "analcraft:blocks/fsie"
+  }
+}

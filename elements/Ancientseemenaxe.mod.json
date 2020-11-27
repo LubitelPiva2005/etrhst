@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ancientseemenaxemy",
+    "customModelName": "Normal",
+    "name": "Топор из древней спермы",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Analtab"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 17.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 10.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ancientseemeningot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

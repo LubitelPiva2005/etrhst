@@ -1,0 +1,20 @@
+{
+  "group": "analcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "analcraft:cumplanks"
+    },
+    {
+      "item": "analcraft:cumplanks"
+    },
+    {
+      "item": "analcraft:cumplanks"
+    }
+  ],
+  "result": {
+    "item": "analcraft:cumslab",
+    "data": 0,
+    "count": 6
+  }
+}

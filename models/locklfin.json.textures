@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stone",
+        "2": "iron_block",
+        "3": "iron_block"
+      },
+      "name": "default"
+    }
+  }
+}

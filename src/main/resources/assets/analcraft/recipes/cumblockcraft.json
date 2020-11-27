@@ -1,0 +1,37 @@
+{
+  "group": "analcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "analcraft:semen"
+    },
+    {
+      "item": "analcraft:semen"
+    },
+    {
+      "item": "analcraft:semen"
+    },
+    {
+      "item": "analcraft:semen"
+    },
+    {
+      "item": "analcraft:semen"
+    },
+    {
+      "item": "analcraft:semen"
+    },
+    {
+      "item": "analcraft:semen"
+    },
+    {
+      "item": "analcraft:semen"
+    },
+    {
+      "item": "analcraft:semen"
+    }
+  ],
+  "result": {
+    "item": "analcraft:cumblock",
+    "count": 1
+  }
+}

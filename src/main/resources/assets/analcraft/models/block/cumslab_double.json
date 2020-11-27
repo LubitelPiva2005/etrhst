@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "analcraft:blocks/cumplanks",
+    "particle": "analcraft:blocks/cumplanks"
+  }
+}

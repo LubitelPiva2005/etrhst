@@ -1,0 +1,25 @@
+{
+  "group": "analcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "analcraft:ancientseemenaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "analcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "analcraft:bucks"
+    },
+    "1": {
+      "item": "analcraft:bucks"
+    },
+    "2": {
+      "item": "analcraft:bucks"
+    },
+    "3": {
+      "item": "analcraft:bucks"
+    },
+    "4": {
+      "item": "analcraft:bucks"
+    },
+    "5": {
+      "item": "analcraft:bucks"
+    },
+    "6": {
+      "item": "analcraft:bucks"
+    },
+    "7": {
+      "item": "analcraft:bucks"
+    },
+    "8": {
+      "item": "analcraft:bucks"
+    }
+  },
+  "result": {
+    "item": "analcraft:hundred",
+    "count": 1
+  }
+}

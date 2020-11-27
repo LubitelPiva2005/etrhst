@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "analcraft:blocks/niz",
+    "up": "analcraft:blocks/dth",
+    "north": "analcraft:blocks/storona",
+    "east": "analcraft:blocks/storona_2",
+    "south": "analcraft:blocks/storona",
+    "west": "analcraft:blocks/storona_2",
+    "particle": "analcraft:blocks/niz"
+  }
+}

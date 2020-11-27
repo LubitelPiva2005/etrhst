@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "g1",
+        "4": "g2",
+        "5": "male-sign-whatsapp",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

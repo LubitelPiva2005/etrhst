@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "analcraft:blocks/spermatestblock",
+    "up": "analcraft:blocks/spermatestblock",
+    "north": "analcraft:blocks/spermatestblock",
+    "east": "analcraft:blocks/spermatestblock",
+    "south": "analcraft:blocks/spermatestblock",
+    "west": "analcraft:blocks/spermatestblock",
+    "particle": "analcraft:blocks/spermatestblock"
+  }
+}

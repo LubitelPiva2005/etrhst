@@ -1,0 +1,8 @@
+{
+  "parent": "analcraft:custom/unactportal",
+  "textures": {
+    "all": "analcraft:blocks/biez_imieni-1",
+    "particle": "analcraft:blocks/biez_imieni-1",
+    "0": "analcraft:blocks/biez_imieni-1"
+  }
+}

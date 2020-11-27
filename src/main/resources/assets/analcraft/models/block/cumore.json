@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "analcraft:blocks/rudaspermiu",
+    "up": "analcraft:blocks/rudaspermiu",
+    "north": "analcraft:blocks/rudaspermiu",
+    "east": "analcraft:blocks/rudaspermiu",
+    "south": "analcraft:blocks/rudaspermiu",
+    "west": "analcraft:blocks/rudaspermiu",
+    "particle": "analcraft:blocks/rudaspermiu"
+  }
+}

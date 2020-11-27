@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "5",
+    "name": "Zozh",
+    "description": "RIGHT VERSION",
+    "creativeTab": {
+      "value": "CUSTOM:Analtab"
+    },
+    "music": {
+      "value": "CUSTOM:zozh"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

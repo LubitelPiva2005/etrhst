@@ -1,0 +1,45 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "fisttt",
+    "customModelName": "Normal",
+    "name": "Кулак (пкм чтобы включить)",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Analtab"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 10.0,
+    "enchantability": 0,
+    "damageVsEntity": 6.0,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Semen"
+      },
+      {
+        "value": "CUSTOM:Blacklether"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "KnockbackfistRightClickedInAir"
+    },
+    "onRightClickedOnBlock": {
+      "name": "KnockbackfistRightClickedOnBlock"
+    },
+    "onEntityHitWith": {
+      "name": "FistMobIsHitWithTool"
+    },
+    "onItemInUseTick": {
+      "name": "FistToolInHandTick"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "analcraft:blocks/cumlogtop",
+    "up": "analcraft:blocks/cumlogtop",
+    "north": "analcraft:blocks/cumlog",
+    "east": "analcraft:blocks/cumlog",
+    "south": "analcraft:blocks/cumlog",
+    "west": "analcraft:blocks/cumlog",
+    "particle": "analcraft:blocks/cumlogtop"
+  }
+}

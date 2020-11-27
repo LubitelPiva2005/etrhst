@@ -1,0 +1,32 @@
+{
+  "group": "analcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "analcraft:cumplanks"
+    },
+    "1": {
+      "item": "analcraft:cumstick"
+    },
+    "2": {
+      "item": "analcraft:cumplanks"
+    },
+    "3": {
+      "item": "analcraft:cumplanks"
+    },
+    "4": {
+      "item": "analcraft:cumstick"
+    },
+    "5": {
+      "item": "analcraft:cumplanks"
+    }
+  },
+  "result": {
+    "item": "analcraft:fense",
+    "count": 3
+  }
+}

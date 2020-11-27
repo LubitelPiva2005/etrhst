@@ -1,0 +1,37 @@
+{
+  "group": "analcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    },
+    {
+      "item": "analcraft:ancientseemeningot"
+    }
+  ],
+  "result": {
+    "item": "analcraft:oldcumblock",
+    "count": 1
+  }
+}

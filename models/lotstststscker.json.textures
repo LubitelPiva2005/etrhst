@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hardened_clay_stained_cyan",
+        "2": "stone",
+        "3": "iron_block"
+      },
+      "name": "default"
+    }
+  }
+}
