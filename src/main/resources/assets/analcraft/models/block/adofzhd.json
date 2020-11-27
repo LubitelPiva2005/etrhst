@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "analcraft:blocks/an_ex",
+    "up": "analcraft:blocks/an_ex",
+    "north": "analcraft:blocks/an_ex",
+    "east": "analcraft:blocks/an_ex",
+    "south": "analcraft:blocks/an_ex",
+    "west": "analcraft:blocks/an_ex",
+    "particle": "analcraft:blocks/an_ex"
+  }
+}
